@@ -1,10 +1,10 @@
 import os
 import random
-
 clear = lambda: os.system("cls")
 
 print("привет! я загадал слово, твоя задача - угадать его.")
 input("нажмите enter, чтобы продолжить:")
+# очистка терминала
 clear()
 print("поехали!")
 
